@@ -19,6 +19,7 @@ This project is a frontend-based Contract Management Platform built as part of a
 The goal was to design and implement a clean, usable interface for managing contract templates (blueprints), creating contracts from them, and handling contract lifecycle states — without relying on a backend.
 
 
+
 ## Features
 
 - Create reusable contract blueprints with configurable fields
@@ -86,4 +87,3 @@ src/
 - Status timeline visualization
 - Backend integration for persistence and multi-user support
 - Unit tests for lifecycle rules
-
